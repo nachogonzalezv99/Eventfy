@@ -1,0 +1,4 @@
+/node_modules
+.env
+activities-mock-data.json
+jobs-mock-data.json
